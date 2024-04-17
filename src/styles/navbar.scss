@@ -11,7 +11,7 @@
     align-items:center;
     padding-inline: 25vh;
     max-width: 1550px;
-    min-width: 500px;
+    min-width: 550px;
     margin: 0 auto;
     padding: auto;
     .logo{
@@ -95,9 +95,9 @@
 }
 .sidebar-container{
     position: fixed;
-    top: 1%;
+    top: 0%;
     z-index: 999;
-    height: 100vh;
+    min-height: 999vh;
     width: 250px;
     max-width: 1550px;
     background-color:var(--background-color);

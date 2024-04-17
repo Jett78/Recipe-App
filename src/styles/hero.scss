@@ -28,6 +28,7 @@
       background-color: rgb(31, 170, 31);
     }
   }
+
   .text-content {
     max-width: 40%;
     min-width: 400px; 
@@ -165,6 +166,11 @@
     margin-left: 8rem;
     .img-content{
       margin-left: 30rem;
+      max-width: 4px;
+      img{
+        width: 80px;
+        margin-left: 20px;
+      }
     }
   }
   
